@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
     transition: background .3s ease-in-out,padding-top .3s ease-in-out,padding-bottom .3s;
     letter-spacing: 1px;
     border-bottom: none;
-    background: transparent;
+    background-color: transparent;
   }
 }
 
@@ -72,4 +72,8 @@ h1, h2, h3, h4, h5, h6 {
       font-size: 3.75rem;
     }
   }
+}
+
+#mainNav.bg-black{
+   background-color: black!important;
 }
