@@ -48,10 +48,14 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover;
   height: 100vh;
 
-  // .brand-heading {
-  //   font-size: 2rem;
-  //   font-family: 'Prata', serif;
-  // }
+  .brand-heading {
+     font-size: 2.5rem;  
+  }
+}
+
+.heading-divider.display-4 {
+  font-size: 2rem;
+  line-height: 2.5rem;
 }
 
 @media (min-width:992px) {

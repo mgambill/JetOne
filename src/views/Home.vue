@@ -19,14 +19,14 @@ div
         | Business &amp; Leisure Purposes
 
       .row
-        .col
+        .col.order-4.order-sm-1
           h4.mb-3.text-uppercase Private Jet Charter
           p.spaced We provide aircraft charters to business professionals, to maximise their time efficiency. Today we provide aircraft charters to business professionals, to maximise their time efficiency.
-        .col-7
+        .col-md-7.order-3
           img.img-fluid(src="img/adobestock_1417261-1024x681.jpg")
 
       .row
-        .col-7
+        .col-md-7
           img.img-fluid(src="img/adobestock_98400582-1024x683.jpg")
         .col
           h4.mb-3.text-uppercase Business Jet Charter
@@ -64,7 +64,7 @@ div
   section.py-5
     .container
       .row
-        .col
+        .col-sm
           img.img-fluid(src="img/feather-plane-1-300x300.jpg")
           h6.my-3.text-uppercase Private Jet
           p Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -72,7 +72,8 @@ div
           img.img-fluid(src="img/helicopter-1-300x300.jpg")
           h6.my-3.text-uppercase Business Jet
           p Inventore accusantium necessitatibus consectetur, nesciunt excepturi.
-        .col
+        .w-100.d-md-none.d-block
+        .col-sm
           img.img-fluid(src="img/large-plane-1-300x300.jpg")
           h6.my-3.text-uppercase Helicopter
           p Eligendi, beatae recusandae officia sint repellendus distinctio.
