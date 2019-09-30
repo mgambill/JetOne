@@ -1,7 +1,7 @@
 <template lang="pug">
 
-div
-  AppNav
+div.container(style="margin-top:120px")
+  AppNav.bg-black
   slot
                 
 </template>

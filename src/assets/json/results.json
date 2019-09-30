@@ -1,0 +1,2030 @@
+[
+  {
+    "price": "12,100",
+    "rawPrice": 12100,
+    "currency": "USD",
+    "originalRawPrice": 12100,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399819077",
+    "type": 2,
+    "uniqueName": "Hawker 750 XP",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Boca Raton, US (BCT)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:24",
+        "availableFrom": "2019-09-28",
+        "availableTo": "2019-10-01"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/ygdoyafi.dx5_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/ygdoyafi.dx5.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2009",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399819299",
+    "type": 2,
+    "uniqueName": "Hawker 400XP",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Dekalb-Peachtree, US (PDK)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:36",
+        "availableFrom": "2019-09-28",
+        "availableTo": "2019-10-02"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/3uxevroh.dye_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/3uxevroh.dye.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2005",
+    "amenities": [
+      "Pets allowed"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399828289",
+    "type": 2,
+    "uniqueName": "Gulfstream G-IVSP",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 12,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Boca Raton, US (BCT)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:42",
+        "availableFrom": "2019-09-28",
+        "availableTo": "2019-10-02"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/dpkdm151.a5n_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/dpkdm151.a5n.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2000",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Smoking allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": "17,600",
+    "rawPrice": 17600,
+    "currency": "USD",
+    "originalRawPrice": 17600,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399815863",
+    "type": 2,
+    "uniqueName": "Falcon 2000",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 10,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Executive, US (ORL)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-09-29",
+        "availableTo": "2019-10-01"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/cz11uj2i.00s_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/cz11uj2i.00s.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2000",
+    "amenities": [
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399821932",
+    "type": 2,
+    "uniqueName": "Falcon 50",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Opa-Locka Executive, US (OPF)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Westchester County, US (HPN)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-09-29",
+        "availableTo": "2019-10-02"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/b5tskxer.gow_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/b5tskxer.gow.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1981",
+    "amenities": []
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399828895",
+    "type": 2,
+    "uniqueName": "Learjet 55",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 7,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Sarasota/Bradenton Intl, US (SRQ)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Republic, US (FRG)",
+        "endId": 14772,
+        "flightTime": "01:35",
+        "availableFrom": "2019-09-29",
+        "availableTo": "2019-09-30"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/wxhvplip.yyu_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/wxhvplip.yyu.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1982",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed"
+    ]
+  },
+  {
+    "price": "19,690",
+    "rawPrice": 19690,
+    "currency": "USD",
+    "originalRawPrice": 19690,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399821668",
+    "type": 2,
+    "uniqueName": "Falcon 900B",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 14,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Boca Raton, US (BCT)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:28",
+        "availableFrom": "2019-09-29",
+        "availableTo": "2019-10-01"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/f4k1wizq.qwq_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/f4k1wizq.qwq.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1987",
+    "amenities": []
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399817586",
+    "type": 2,
+    "uniqueName": "Challenger 601-3A",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 12,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Charleston Afb/Intl, US (CHS)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-09-30",
+        "availableTo": "2019-10-02"
+      }
+    ],
+    "photos": [],
+    "searchHitInfo": null,
+    "yearOfMake": "1990",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Smoking allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": "12,100",
+    "rawPrice": 12100,
+    "currency": "USD",
+    "originalRawPrice": 12100,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399841238",
+    "type": 2,
+    "uniqueName": "Challenger 601",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 10,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Nashville Intl, US (BNA)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Quonset State, US (OQU)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-09-30",
+        "availableTo": "2019-09-30"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/ggzmhvle.1o1_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/ggzmhvle.1o1.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1993",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399828088",
+    "type": 2,
+    "uniqueName": "Gulfstream G-450",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 14,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Palm Beach Intl, US (PBI)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:25",
+        "availableFrom": "2019-09-30",
+        "availableTo": "2019-09-30"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/pxh5q2oo.0cs_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/pxh5q2oo.0cs.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2009",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": "10,945",
+    "rawPrice": 10945,
+    "currency": "USD",
+    "originalRawPrice": 10945,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399830787",
+    "type": 2,
+    "uniqueName": "Learjet 60",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 7,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "William P Hobby, US (HOU)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:43",
+        "availableFrom": "2019-09-30",
+        "availableTo": "2019-10-02"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/u0u1u5wh.0uy_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/u0u1u5wh.0uy.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2001",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Smoking allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": "16,500",
+    "rawPrice": 16500,
+    "currency": "USD",
+    "originalRawPrice": 16500,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399823176",
+    "type": 2,
+    "uniqueName": "Falcon 2000",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 10,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Executive, US (ORL)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-10-01",
+        "availableTo": "2019-10-03"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/cz11uj2i.00s_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/cz11uj2i.00s.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2002",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399817109",
+    "type": 2,
+    "uniqueName": "Citation XLS",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 7,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Wilkes County, US (IKB)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Westchester County, US (HPN)",
+        "endId": 14772,
+        "flightTime": "01:34",
+        "availableFrom": "2019-10-01",
+        "availableTo": "2019-10-01"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/gquknabx.y2s_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/gquknabx.y2s.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2008",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399819026",
+    "type": 2,
+    "uniqueName": "Gulfstream G-IVSP",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 13,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Executive Intl, US (FXE)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:32",
+        "availableFrom": "2019-10-01",
+        "availableTo": "2019-10-04"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/dpkdm151.a5n_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/dpkdm151.a5n.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2000",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Smoking allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399830873",
+    "type": 2,
+    "uniqueName": "Hawker 800XP",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 7,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Jacksonville Intl, US (JAX)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-10-01",
+        "availableTo": "2019-10-01"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/635200354356754721_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/635200354356754721.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2005",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399841049",
+    "type": 2,
+    "uniqueName": "Learjet 60",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 7,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Palm Beach Intl, US (PBI)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:36",
+        "availableFrom": "2019-10-01",
+        "availableTo": "2019-10-02"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/u0u1u5wh.0uy_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/u0u1u5wh.0uy.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1997",
+    "amenities": [
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": "22,550",
+    "rawPrice": 22550,
+    "currency": "USD",
+    "originalRawPrice": 22550,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399824872",
+    "type": 2,
+    "uniqueName": "Gulfstream G-IV",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 13,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Austin-Bergstrom Intl, US (AUS)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-10-01",
+        "availableTo": "2019-10-04"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/3khlyhzd.ilk_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/3khlyhzd.ilk.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1995",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399825501",
+    "type": 2,
+    "uniqueName": "Challenger 300",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 9,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Palm Beach Intl, US (PBI)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Laurence G Hanscom Fld, US (BED)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-10-01",
+        "availableTo": "2019-10-02"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/e2ai2t2x.cve_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/e2ai2t2x.cve.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2003",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed"
+    ]
+  },
+  {
+    "price": "0",
+    "rawPrice": 0,
+    "currency": "USD",
+    "originalRawPrice": 0,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399819432",
+    "type": 2,
+    "uniqueName": "Hawker 800XPi",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 6,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Palm Beach Intl, US (PBI)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-10-02",
+        "availableTo": "2019-10-04"
+      }
+    ],
+    "photos": [],
+    "searchHitInfo": null,
+    "yearOfMake": "2006",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399826288",
+    "type": 2,
+    "uniqueName": "Learjet 35A",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Columbia Metropolitan, US (CAE)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Tweed-New Haven, US (HVN)",
+        "endId": 14772,
+        "flightTime": "01:24",
+        "availableFrom": "2019-10-02",
+        "availableTo": "2019-10-02"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/vl1bzvrq.ybr_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/vl1bzvrq.ybr.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1978",
+    "amenities": [
+      "Smoking allowed"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399819529",
+    "type": 2,
+    "uniqueName": "Global 5000",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 13,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Opa-Locka Executive, US (OPF)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:24",
+        "availableFrom": "2019-10-02",
+        "availableTo": "2019-10-03"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/ox4yr1sn.sw5_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/ox4yr1sn.sw5.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2007",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399818894",
+    "type": 2,
+    "uniqueName": "Hawker 800XP",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 7,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Palm Beach Intl, US (PBI)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:28",
+        "availableFrom": "2019-10-02",
+        "availableTo": "2019-10-07"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/635200354356754721_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/635200354356754721.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2004",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399819287",
+    "type": 2,
+    "uniqueName": "Gulfstream G-450",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 16,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Austin Executive, US (EDC)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:25",
+        "availableFrom": "2019-10-02",
+        "availableTo": "2019-10-02"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/pxh5q2oo.0cs_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/pxh5q2oo.0cs.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2010",
+    "amenities": [
+      "Enclosed lavatory"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399825384",
+    "type": 2,
+    "uniqueName": "Gulfstream G-IVSP",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 13,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Hollywood Intl, US (FLL)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-10-02",
+        "availableTo": "2019-10-02"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/dpkdm151.a5n_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/dpkdm151.a5n.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1996",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399826290",
+    "type": 2,
+    "uniqueName": "Learjet 35A",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Columbia Metropolitan, US (CAE)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Tweed-New Haven, US (HVN)",
+        "endId": 14772,
+        "flightTime": "01:24",
+        "availableFrom": "2019-10-03",
+        "availableTo": "2019-10-03"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/vl1bzvrq.ybr_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/vl1bzvrq.ybr.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1978",
+    "amenities": [
+      "Smoking allowed"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399735891",
+    "type": 2,
+    "uniqueName": "Citation Encore+",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 7,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Palm Beach Intl, US (PBI)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Marshfield, US (KGHG)",
+        "endId": 14772,
+        "flightTime": "01:42",
+        "availableFrom": "2019-10-03",
+        "availableTo": "2019-10-05"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/xp1o154y.k14_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/xp1o154y.k14.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2009",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399790894",
+    "type": 2,
+    "uniqueName": "Challenger 350",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 9,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Boca Raton, US (BCT)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Westchester County, US (HPN)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-10-03",
+        "availableTo": "2019-10-03"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/1357/131245583468880638_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/1357/131245583468880638.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2015",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399826153",
+    "type": 2,
+    "uniqueName": "Citation X",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Miami Intl, US (MIA)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Rutland-S Vermont Rgnl, US (RUT)",
+        "endId": 14772,
+        "flightTime": "01:24",
+        "availableFrom": "2019-10-03",
+        "availableTo": "2019-10-05"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/xgwnjlic.mxq_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/xgwnjlic.mxq.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1999",
+    "amenities": [
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399827180",
+    "type": 2,
+    "uniqueName": "Boeing 737-800",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 168,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Miami Intl, US (MIA)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Newark Liberty Intl, US (EWR)",
+        "endId": 14772,
+        "flightTime": "01:08",
+        "availableFrom": "2019-10-04",
+        "availableTo": "2019-10-05"
+      }
+    ],
+    "photos": [],
+    "searchHitInfo": null,
+    "yearOfMake": "2008",
+    "amenities": []
+  },
+  {
+    "price": "0",
+    "rawPrice": 0,
+    "currency": "USD",
+    "originalRawPrice": 0,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399784319",
+    "type": 2,
+    "uniqueName": "Hawker 800XPi",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 6,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Fernandina Beach Muni, US (FHB)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Westchester County, US (HPN)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-10-05",
+        "availableTo": "2019-10-10"
+      }
+    ],
+    "photos": [],
+    "searchHitInfo": null,
+    "yearOfMake": "2006",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399826159",
+    "type": 2,
+    "uniqueName": "Citation X",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Charleston Afb/Intl, US (CHS)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:24",
+        "availableFrom": "2019-10-05",
+        "availableTo": "2019-10-06"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/xgwnjlic.mxq_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/xgwnjlic.mxq.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1997",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399822661",
+    "type": 2,
+    "uniqueName": "Learjet 60",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 7,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Southwest Florida Intl, US (RSW)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Quonset State, US (OQU)",
+        "endId": 14772,
+        "flightTime": "01:45",
+        "availableFrom": "2019-10-06",
+        "availableTo": "2019-10-08"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/u0u1u5wh.0uy_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/u0u1u5wh.0uy.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2002",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399830858",
+    "type": 2,
+    "uniqueName": "Citation Encore+",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Spirit Of St Louis, US (SUS)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:32",
+        "availableFrom": "2019-10-07",
+        "availableTo": "2019-10-08"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/xp1o154y.k14_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/xp1o154y.k14.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2007",
+    "amenities": []
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399767215",
+    "type": 2,
+    "uniqueName": "Citation XLS",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 7,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Wilkes County, US (IKB)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "East Hampton, US (HTO)",
+        "endId": 14772,
+        "flightTime": "01:34",
+        "availableFrom": "2019-10-07",
+        "availableTo": "2019-10-07"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/gquknabx.y2s_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/gquknabx.y2s.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2008",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399785780",
+    "type": 2,
+    "uniqueName": "Challenger 300",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 10,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Palm Beach Intl, US (PBI)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:27",
+        "availableFrom": "2019-10-07",
+        "availableTo": "2019-10-07"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/e2ai2t2x.cve_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/e2ai2t2x.cve.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2007",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": "10,175",
+    "rawPrice": 10175,
+    "currency": "USD",
+    "originalRawPrice": 10175,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399814146",
+    "type": 2,
+    "uniqueName": "Legacy 600",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 13,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Mc Ghee Tyson, US (TYS)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Long Island Mac Arthur, US (ISP)",
+        "endId": 14772,
+        "flightTime": "01:24",
+        "availableFrom": "2019-10-07",
+        "availableTo": "2019-10-07"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/q5qlbibr.wt3_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/q5qlbibr.wt3.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2003",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399828711",
+    "type": 2,
+    "uniqueName": "Citation X",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Miami Intl, US (MIA)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Northeast Philadelphia, US (PNE)",
+        "endId": 14772,
+        "flightTime": "01:24",
+        "availableFrom": "2019-10-09",
+        "availableTo": "2019-10-09"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/xgwnjlic.mxq_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/xgwnjlic.mxq.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2002",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": "14,850",
+    "rawPrice": 14850,
+    "currency": "USD",
+    "originalRawPrice": 14850,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399804399",
+    "type": 2,
+    "uniqueName": "Falcon 2000",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 9,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Palm Beach Intl, US (PBI)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:28",
+        "availableFrom": "2019-10-09",
+        "availableTo": "2019-10-11"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/cz11uj2i.00s_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/cz11uj2i.00s.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1999",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399796505",
+    "type": 2,
+    "uniqueName": "Learjet 75",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Nashville Intl, US (BNA)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Quonset State, US (OQU)",
+        "endId": 14772,
+        "flightTime": "01:29",
+        "availableFrom": "2019-10-09",
+        "availableTo": "2019-10-09"
+      }
+    ],
+    "photos": [],
+    "searchHitInfo": null,
+    "yearOfMake": "2016",
+    "amenities": []
+  },
+  {
+    "price": "14,300",
+    "rawPrice": 14300,
+    "currency": "USD",
+    "originalRawPrice": 14300,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399784811",
+    "type": 2,
+    "uniqueName": "Challenger 604",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 10,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "William P Hobby, US (HOU)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Quonset State, US (OQU)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-10-09",
+        "availableTo": "2019-10-09"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/d2mff52p.sut_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/d2mff52p.sut.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2000",
+    "amenities": []
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399828509",
+    "type": 2,
+    "uniqueName": "Challenger 601-3A",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 12,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Executive Intl, US (FXE)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-10-09",
+        "availableTo": "2019-10-10"
+      }
+    ],
+    "photos": [],
+    "searchHitInfo": null,
+    "yearOfMake": "1989",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399830891",
+    "type": 2,
+    "uniqueName": "Citation Sovereign",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 9,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Opa-Locka Executive, US (OPF)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Francis S Gabreski, US (FOK)",
+        "endId": 14772,
+        "flightTime": "01:24",
+        "availableFrom": "2019-10-10",
+        "availableTo": "2019-10-11"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/bmrnjrgj.kns_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/bmrnjrgj.kns.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2005",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399827682",
+    "type": 2,
+    "uniqueName": "Challenger 604",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 9,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Boca Raton, US (BCT)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:24",
+        "availableFrom": "2019-10-10",
+        "availableTo": "2019-10-13"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/d2mff52p.sut_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/d2mff52p.sut.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2001",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399815539",
+    "type": 2,
+    "uniqueName": "Boeing 737-800",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 168,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Orlando Sanford Intl, US (SFB)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Newark Liberty Intl, US (EWR)",
+        "endId": 14772,
+        "flightTime": "01:08",
+        "availableFrom": "2019-10-10",
+        "availableTo": "2019-10-10"
+      }
+    ],
+    "photos": [],
+    "searchHitInfo": null,
+    "yearOfMake": "2010",
+    "amenities": []
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399822671",
+    "type": 2,
+    "uniqueName": "Challenger 604",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 12,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Palm Beach Intl, US (PBI)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Laurence G Hanscom Fld, US (BED)",
+        "endId": 14772,
+        "flightTime": "01:30",
+        "availableFrom": "2019-10-10",
+        "availableTo": "2019-10-10"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/d2mff52p.sut_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/d2mff52p.sut.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2000",
+    "amenities": [
+      "Enclosed lavatory",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399830867",
+    "type": 2,
+    "uniqueName": "Citation Encore+",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Palm Beach Intl, US (PBI)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Philadelphia Intl, US (PHL)",
+        "endId": 14772,
+        "flightTime": "01:32",
+        "availableFrom": "2019-10-11",
+        "availableTo": "2019-10-12"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/xp1o154y.k14_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/xp1o154y.k14.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2007",
+    "amenities": []
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399726375",
+    "type": 2,
+    "uniqueName": "Citation Bravo",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 9,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Oconee County Regional, US (CEU)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Penn Yan, US (PEO)",
+        "endId": 14772,
+        "flightTime": "01:36",
+        "availableFrom": "2019-10-11",
+        "availableTo": "2019-10-11"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/n3xfhqkf.xqz_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/n3xfhqkf.xqz.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2002",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399773171",
+    "type": 2,
+    "uniqueName": "Citation CJ3",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Vero Beach Muni, US (VRB)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "New Castle County, US (ILG)",
+        "endId": 14772,
+        "flightTime": "01:36",
+        "availableFrom": "2019-10-11",
+        "availableTo": "2019-10-12"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/pp4ngzpd.ojh_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/pp4ngzpd.ojh.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2006",
+    "amenities": []
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399804240",
+    "type": 2,
+    "uniqueName": "Citation Bravo",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 9,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Orlando Intl, US (MCO)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:48",
+        "availableFrom": "2019-10-13",
+        "availableTo": "2019-10-16"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/n3xfhqkf.xqz_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/n3xfhqkf.xqz.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2001",
+    "amenities": [
+      "Enclosed lavatory"
+    ]
+  },
+  {
+    "price": "0",
+    "rawPrice": 0,
+    "currency": "USD",
+    "originalRawPrice": 0,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399781625",
+    "type": 2,
+    "uniqueName": "Hawker 800XP",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Palm Beach Intl, US (PBI)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Westchester County, US (HPN)",
+        "endId": 14772,
+        "flightTime": "01:24",
+        "availableFrom": "2019-10-13",
+        "availableTo": "2019-10-18"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/635200354356754721_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/635200354356754721.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2004",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "price": null,
+    "rawPrice": null,
+    "currency": null,
+    "originalRawPrice": null,
+    "originalCurrency": null,
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399682926",
+    "type": 2,
+    "uniqueName": "Citation V",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 8,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Birmingham-Shuttlesworth, US (BHM)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Teterboro, US (TEB)",
+        "endId": 14772,
+        "flightTime": "01:38",
+        "availableFrom": "2019-10-13",
+        "availableTo": "2019-10-14"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/sg2udhac.uiw_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/sg2udhac.uiw.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "1993",
+    "amenities": []
+  },
+  {
+    "price": "10,450",
+    "rawPrice": 10450,
+    "currency": "USD",
+    "originalRawPrice": 10450,
+    "originalCurrency": "USD",
+    "searchId": "asearch-31871018",
+    "emptyLegId": "el-399801672",
+    "type": 2,
+    "uniqueName": "Learjet 60XR",
+    "customCategoryId": null,
+    "categoryFallbackTitle": null,
+    "minPax": 0,
+    "maxPax": 6,
+    "segments": [
+      {
+        "start": "CLT",
+        "startAsHumanText": "Executive Intl, US (FXE)",
+        "startId": 13380,
+        "end": "LGA",
+        "endAsHumanText": "Northeast Philadelphia, US (PNE)",
+        "endId": 14772,
+        "flightTime": "01:24",
+        "availableFrom": "2019-10-14",
+        "availableTo": "2019-10-14"
+      }
+    ],
+    "photos": [
+      {
+        "thumbnailUrl": "https://media-content.avinode.com/mediafiles/store/2582/ybdahy0m.trp_30.jpg",
+        "largeUrl": "https://media-content.avinode.com/mediafiles/store/2582/ybdahy0m.trp.jpg"
+      }
+    ],
+    "searchHitInfo": null,
+    "yearOfMake": "2008",
+    "amenities": [
+      "Enclosed lavatory",
+      "Pets allowed",
+      "Smoking allowed",
+      "Wi-Fi"
+    ]
+  }
+]

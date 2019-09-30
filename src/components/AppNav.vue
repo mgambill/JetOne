@@ -11,16 +11,26 @@ nav#mainNav.navbar.navbar-dark.navbar-expand-md.navbar.navbar-expand-lg.fixed-to
           a.nav-link.js-scroll-trigger(href='#about') About
         li.nav-item.js-scroll-trigger(role='presentation')
           a.nav-link.js-scroll-trigger(href='#download') Download
-        router-link.nav-item(to="/login" tag="li"): a.nav-link Login 
+        template(v-if="loggedIn")
+          router-link.nav-item(to="/logout" tag="li"): a.nav-link Logout 
+        template(v-else)
+          router-link.nav-item(to="/login" tag="li"): a.nav-link Login 
 </template>
 
 <script>
 import debounce from "lodash/debounce";
+import auth from "../auth";
 export default {
+  data() {
+    return {
+      loggedIn: auth.loggedIn()
+    };
+  },
   methods: {
     handleScroll() {
       const cl = this.$refs.nav.classList;
-      console.log("scroll", window.scrollY, cl, cl.contains("bg-black"));
+      if (this.$parent.$el.dataset.layout === "MainLayout") return;
+
       if (window.scrollY > 830) {
         if (!cl.contains("bg-black")) cl.toggle("bg-black", true);
       } else {
